@@ -1,0 +1,6 @@
+COMANDOS GIT
+
+git add . --> Adiciona todos os arquivos locais ao git
+git commit -m --> Confirma inclusão e adicioina o commit no git
+git push origin main --> Confirma a adição dos arquivos no git
+git status --> verifica o status do git no git-bash
